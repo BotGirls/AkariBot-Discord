@@ -1,0 +1,15 @@
+{
+  "name": "akaribot-discord",
+  "version": "1.0.0",
+  "description": "akari-chan",
+  "main": "index.js",
+  "repository": "https://github.com/BotGirls/AkariBot-Discord",
+  "author": "nzws (yuzulabo) <git@nzws.me>",
+  "license": "MPL-2.0",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
